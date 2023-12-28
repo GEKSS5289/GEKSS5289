@@ -11,9 +11,9 @@
 # Hey I'm Shushun
 
 > 是风终会吹，是雨总会停。
+<img  src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" />
 
-<img  src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" height="150"/>
-<div style="display:flex">
+<div style="display:flex;"  align="left">
 <img src="https://img.shields.io/badge/maven-blue"/>
 <img src="https://img.shields.io/badge/java-brown"/>
 <img src="https://img.shields.io/badge/docker-6495ED"/>
@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/redos-F0E68C"/>
 <img src="https://img.shields.io/badge/spring-2E8B57"/>
 <img src="https://img.shields.io/badge/devops-DAA520"/>
+<img src="https://img.shields.io/badge/rabbitmq-ffd700"/>
+<img src="https://img.shields.io/badge/liunx-FFEFD5"/>
 </div>
 
 
