@@ -8,6 +8,8 @@
 
 
 
+
+
 # Hey I'm Shushun
 > 是风终会吹，是雨总会停。
 
@@ -18,34 +20,28 @@
 
 
 
-
 # About me
-- 爱写诗，爱长跑。
-- 任职于一家食品公司良品铺子，担任java后端开发。主要负责会员模块和商品模块。
+
+`Languages and Frameworks`
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"></code>
+<code><img height="20" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" title="CSS"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"></code>
+<code><img height="20" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" title="SQL"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" title="Redis"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+
+`Tools and Environments`
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" title="PyCharm"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/webstorm.png" alt="WebStorm" title="WebStorm"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual-Studio" title="Visual-Studio"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 
 
-# Link me
-- QQ:496966859
-- WeiXin:CyberGlint
-
-
-
-  
-
-
-
-
-
-<div style="display:flex;"  align="left">
-<img src="https://img.shields.io/badge/maven-blue"/>
-<img src="https://img.shields.io/badge/java-brown"/>
-<img src="https://img.shields.io/badge/docker-6495ED"/>
-<img src="https://img.shields.io/badge/kubernetes-4169E1"/>
-<img src="https://img.shields.io/badge/jenkins-FF4500"/>
-<img src="https://img.shields.io/badge/mysql-F0E68C"/>
-<img src="https://img.shields.io/badge/redos-F0E68C"/>
-<img src="https://img.shields.io/badge/spring-2E8B57"/>
-<img src="https://img.shields.io/badge/devops-DAA520"/>
-<img src="https://img.shields.io/badge/rabbitmq-ffd700"/>
-<img src="https://img.shields.io/badge/liunx-FFEFD5"/>
-</div>
