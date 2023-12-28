@@ -1,6 +1,6 @@
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 <img src="https://i.imgur.com/waxVImv.png"/>
-<img src="https://github.com/GEKSS5289/GEKSS5289/blob/main/IMG_7919.HEIC.JPG.JPG" alt="logo"  width="500" height="410" align="left" />
+<img src="https://github.com/GEKSS5289/GEKSS5289/blob/main/IMG_7919.HEIC.JPG.JPG" alt="logo"  width="300" height="410" align="left" />
 
 # Hey I'm Shushun
 
