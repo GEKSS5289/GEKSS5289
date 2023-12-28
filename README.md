@@ -4,15 +4,6 @@
 <div align="center">
    <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
-<img src="https://i.imgur.com/waxVImv.png"/>
-<img src="https://github.com/GEKSS5289/GEKSS5289/blob/main/IMG_9631.JPG" alt="logo"   height="300"  align="left" />
-
-
-# Hey I'm Shushun
-
-> 是风终会吹，是雨总会停。
-<img  src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" height="180"/>
-
 <div style="display:flex;"  align="left">
 <img src="https://img.shields.io/badge/maven-blue"/>
 <img src="https://img.shields.io/badge/java-brown"/>
@@ -26,6 +17,19 @@
 <img src="https://img.shields.io/badge/rabbitmq-ffd700"/>
 <img src="https://img.shields.io/badge/liunx-FFEFD5"/>
 </div>
+<img src="https://i.imgur.com/waxVImv.png"/>
+
+
+
+# Hey I'm Shushun
+> 是风终会吹，是雨总会停。
+
+<div style="display:flex;justify-content: space-between">
+<img  src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" />
+<img  src="https://streak-stats.demolab.com/?user=GEKSS5289&theme=default" />
+</div>
+
+
 
 
 # About me
