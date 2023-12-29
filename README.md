@@ -44,25 +44,6 @@
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/6a159d9b-20e6-41b5-bcd0-7a9d54bd9ce9" alt="vite" title="vite" /></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/45917c23-2684-491d-9e50-1f075afd6850" alt="centos" title="centos" /></code>
 </div>
-
-
-<div>
-
-<br>
-  
-<a href="https://github.com/CyberGlint">
-  <img  src="https://avatars.githubusercontent.com/u/154297633?s=400&u=a01b24dc530891c00dede998ebb2edd2265ba394&v=4"  alt="cyberglint" title="cyberglint" align="left" />
-</a>
-
-```
--------CyberGlint-Organizations-------
-- 作者:shushun
-- 组织地址:https://github.com/CyberGlint
-- 宣言:面向自由编程，面向自由生活。
-```
-
-</div>
-
 <img src="https://i.imgur.com/waxVImv.png"/>
 
 
