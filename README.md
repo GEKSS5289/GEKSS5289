@@ -22,7 +22,7 @@
 </div>
 <img src="https://i.imgur.com/waxVImv.png" />
 <div align="center">
-   <h1>🛠USE-TECH-STACK是⚙</h1>
+   <h1>🛠USE-TECH-STACK⚙</h1>
     <code><img
       height="60"
       src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73"
