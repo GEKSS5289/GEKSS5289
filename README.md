@@ -71,8 +71,7 @@ Composite Reuse Principle
 -------CyberGlint-Organizations-------
 - author:shushun
 - url:https://github.com/CyberGlint
-- manifesto:面向自由编程，面向自由生活。
-
+- manifesto:For free programming, for free life.
 ```
 
 
