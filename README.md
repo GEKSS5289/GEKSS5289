@@ -55,7 +55,7 @@ Composite Reuse Principle
 
 </div>
 
-# org
+# Organizations
 <a href="https://github.com/CyberGlint">
 <img  height="120"  src="https://avatars.githubusercontent.com/u/154297633?s=400&u=a01b24dc530891c00dede998ebb2edd2265ba394&v=4"  alt="cyberglint" title="cyberglint" align="left"/>
 </a>
