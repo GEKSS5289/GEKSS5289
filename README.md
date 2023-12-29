@@ -46,6 +46,9 @@ Learn to live.
 <img  height="30" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/aaa1ccad-1c97-4df3-9487-40fdf6d9168e" alt="chatgpt" title="chatgpt" />
 <img  height="30" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/d8e971cc-f4f6-49db-bb72-6f338efbaf60" alt="mybatis" title="mybatis" />
 <img  height="30" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/3bbbd7d4-f109-4fd7-ace3-b245de0ee746" alt="npm" title="npm" />
+<img  height="30" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/5010468d-71b9-4246-aed9-a7b1e91384fe" alt="ts" title="ts" />
+<img  height="30" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/7e94d048-dee3-4df8-9da2-bc3861b05333" alt="js" title="js" />
+
 
 </div>
 
