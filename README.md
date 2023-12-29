@@ -21,12 +21,7 @@
 <img height="153" src="https://github.com/GEKSS5289/GEKSS5289/blob/main/github-user-contribution.svg"/>
 
 </div>
-
 <img src="https://i.imgur.com/waxVImv.png" />
-
-<br>
-
-# Use Stack
 <div aligin="center">
 <code
     ><img
