@@ -2,11 +2,11 @@
 
 <div>
 <a href="https://www.jetbrains.com/zh-cn/idea">
-<img  height="125" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/>
+<img  height="100" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/>
 </a>
-
-<img  height="125" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"  align="left"/>
-<img  height="125" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
+<img  height="100" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/58d11d16-6b8e-4bb0-a875-cf426424d37b" alt="window" title="idea" align="left"/>
+<img  height="100" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"  align="left"/>
+<img  height="100" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
 
 > 不要重复你自己，保持运动，保持重构。
 
