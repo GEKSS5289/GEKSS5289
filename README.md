@@ -25,7 +25,7 @@ Learn to live.
 
 <div style="display:flex">
   
-# Play
+# 🛠I use the tehc stack
 
 <div style="display:flex;align-items:center;">
 <img height="80"  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" align="left"/>
