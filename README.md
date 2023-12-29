@@ -13,6 +13,14 @@ Read more books, study more.
 Don't repeat yourself.
 Keep moving, keep reconstructing.
 Learn to live.
+Short method function.
+Reject oversized classes.
+--- 
+The Demeter principle
+Principle of single responsibility
+Open Close Principle
+Liskov substitution principle
+
 ```
 
 
