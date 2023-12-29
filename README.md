@@ -8,9 +8,8 @@
 <div style="display:flex">
   
 <div style="display:flex;align-items:center;">
-<img height="70"  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" align="left"/>
-<img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea"/>
-<img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/64bf5f61-0fee-4201-b19d-cb9d541b6aeb" alt="windows" title="idea"/>
+<code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea"/></code>
+<code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/64bf5f61-0fee-4201-b19d-cb9d541b6aeb" alt="windows" title="idea"/></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/5bd4af9c-75e5-4dca-855d-047a940a147b" alt="JAVA" title="JAVA"></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/8d394873-8666-4bac-aeca-0ba73d88eef4" alt="Redis" title="Redis"></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/c124d02c-e723-4096-a2fd-c859b24436ff" alt="Mysql" title="Mysql"></code>
