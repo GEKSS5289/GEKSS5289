@@ -6,15 +6,24 @@
 # 👏Hey,I'm ShuShun
 
 <img  height="130" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/> 
-<img  height="130" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" height="150" align="left"/>
-<img  height="130" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j" height="150 align="left"" />
+<img  height="130" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/4c4a3d0f-7424-4157-b36a-f115f8cc6fa7" alt="idea" title="idea" align="left"/> 
+<img  height="130" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"  align="left"/>
+<img  height="130" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
 
-```
+
+<div>
+
+  ```
 Read more books, study more.
 Don't repeat yourself.
 Keep moving, keep reconstructing.
 Learn to live.
 ```
+
+
+</div>
+
+
 
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
 
