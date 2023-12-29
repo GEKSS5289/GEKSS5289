@@ -10,21 +10,20 @@
 
 
 ```
-Read more books, study more.
-Don't repeat yourself.
-Keep moving, keep reconstructing.
-Learn to live.
-Short method function.
-Reject oversized classes.
-
+不要重复你自己。
+定期运动，定期重构。
+多跑一会儿。
+短方法会方便排查问题。
+方法20行不一定是教条。
+保持整洁。
+偶尔写点诗。
 -------------------------------------------
-
-The Demeter principle
-Principle of single responsibility
-Open Close Principle
-Liskov substitution principle
-Interface Segregation Principle
-Composite Reuse Principle
+迪米特原则
+单一职责原则
+开闭原则
+里氏替换原则
+接口隔离原则
+合成复用原则
 ```
 
   
