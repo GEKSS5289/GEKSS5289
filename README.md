@@ -1,4 +1,4 @@
-![image](https://github.com/GEKSS5289/GEKSS5289/assets/38618059/c416eabb-7aed-4b72-8b55-6fe8ceb9bea7)<img src="https://i.imgur.com/waxVImv.png" />
+<img src="https://i.imgur.com/waxVImv.png" />
 
 
 <div align="center">
@@ -14,11 +14,10 @@
     ░░     ░░░░░░░░   ░░░░░░  ░░      ░░       ░░░░░░░░  ░░      ░░  ░░░░░░░  ░░░░░░░░  ░░      ░░  ░░░░░░░  ░░      ░░░ 
 </pre>
 
-
-
 <img height="153" src="https://github-readme-activity-graph.vercel.app/graph?username=GEKSS5289&theme=github-compact" align="left" />
+
 <img height="153" src="https://github-readme-streak-stats.herokuapp.com/?user=GEKSS5289"/>
-<img height="153" src="https://github.com/GEKSS5289/GEKSS5289/blob/main/github-user-contribution.svg"/>
+
 
 </div>
 <img src="https://i.imgur.com/waxVImv.png" />
