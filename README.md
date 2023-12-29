@@ -18,7 +18,7 @@
 </div>
 
 ```Java
-public static void main(String[] args){System.out.print("Hey! I'm ShuShun")}
+public static void main(String[] args){System.out.print("Hey! I'm ShuShun");}
 ```
 
 <img src="https://i.imgur.com/waxVImv.png" />
