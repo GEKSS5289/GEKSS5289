@@ -7,11 +7,8 @@
 <img src="https://i.imgur.com/waxVImv.png"/>
 
 
-
-
-
 # Hey I'm Shushun
-> 是风终会吹，是雨总会停。
+<img  height="120" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea"> <code><h3>Don't repeat yourself, please keep clean</h3></code>
 
 <div style="display:flex;justify-content: space-between">
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
@@ -34,6 +31,8 @@
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/b9d4e123-5eb0-42de-803b-ccb89b355678" alt="Docker" title="Docker">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/60731e5e-dfc6-47ca-87d9-cdca1bd22756" alt="K8s" title="k8s">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/341df2a4-6184-4aa6-9b6c-aef626dcf7aa" alt="jenkins" title="jenkins">
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/23746ba5-68fc-4836-a98d-7991b22e20cd" alt="devops" title="devops">
+
 
 
 </div>
