@@ -71,9 +71,9 @@
 
 ```
 -------CyberGlint-Organizations-------
-- author:shushun
-- url:https://github.com/CyberGlint
-- manifesto:For free programming, for free life.
+- 作者:shushun
+- 组织地址:https://github.com/CyberGlint
+- 宣言:面向自由编程，面向自由生活。
 ```
 
 </div>
