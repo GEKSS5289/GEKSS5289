@@ -198,6 +198,13 @@
       alt="centos"
       title="centos"
   /></code>
+<code>
+   <img
+      height="80"
+      src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/e4a398bd-254d-4ff4-8481-5441d0e0d36d"
+      alt="vm"
+      title="vm"/>
+</code>
 
 </div>
 
