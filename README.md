@@ -25,7 +25,6 @@ Open Close Principle
 Liskov substitution principle
 Interface Segregation Principle
 Composite Reuse Principle
-
 ```
 
   
