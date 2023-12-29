@@ -58,13 +58,9 @@ Composite Reuse Principle
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/18ae3fd3-0e12-451d-81c5-d6b6589f35aa" alt="html5" title="html5" /></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/6a159d9b-20e6-41b5-bcd0-7a9d54bd9ce9" alt="vite" title="vite" /></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/45917c23-2684-491d-9e50-1f075afd6850" alt="centos" title="centos" /></code>
-
-
 </div>
 
-
 <br>
-
 
 <a href="https://github.com/CyberGlint">
 <img  height="110"  src="https://avatars.githubusercontent.com/u/154297633?s=400&u=a01b24dc530891c00dede998ebb2edd2265ba394&v=4"  alt="cyberglint" title="cyberglint" align="left"/>
@@ -77,6 +73,13 @@ Composite Reuse Principle
 - url:https://github.com/CyberGlint
 - manifesto:For free programming, for free life.
 ```
+
+
+
+<br>
+
+
+
 
 
 
