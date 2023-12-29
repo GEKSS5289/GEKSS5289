@@ -1,4 +1,9 @@
 <img src="https://i.imgur.com/waxVImv.png"/>
+<div align="center">
+<img   src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  
+</div>
+
 
 <div>
 <img  height="150" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"/>
