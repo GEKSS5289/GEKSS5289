@@ -15,11 +15,15 @@ Keep moving, keep reconstructing.
 Learn to live.
 Short method function.
 Reject oversized classes.
---- 
+
+-------------------------------------------
+
 The Demeter principle
 Principle of single responsibility
 Open Close Principle
 Liskov substitution principle
+Interface Segregation Principle
+Composite Reuse Principle
 
 ```
 
