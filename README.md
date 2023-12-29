@@ -33,7 +33,7 @@ Composite Reuse Principle
 <div style="display:flex">
   
 <div style="display:flex;align-items:center;">
-<img height="100"  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" align="left"/>
+<img height="120"  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" align="left"/>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/5bd4af9c-75e5-4dca-855d-047a940a147b" alt="JAVA" title="JAVA"></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/8d394873-8666-4bac-aeca-0ba73d88eef4" alt="Redis" title="Redis"></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/c124d02c-e723-4096-a2fd-c859b24436ff" alt="Mysql" title="Mysql"></code>
@@ -54,7 +54,9 @@ Composite Reuse Principle
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/5010468d-71b9-4246-aed9-a7b1e91384fe" alt="ts" title="ts" /></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/7e94d048-dee3-4df8-9da2-bc3861b05333" alt="js" title="js" /></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/271e63f6-ac9f-49cb-a4c6-e2bc663f3337" alt="ansible" title="ansible" /></code>
-<code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/e2b3d1c9-c692-429d-a300-4c4903f3f739" alt="ansible" title="ansible" /></code>
+<code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/e2b3d1c9-c692-429d-a300-4c4903f3f739" alt="gitlab" title="gitlab" /></code>
+<code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/18ae3fd3-0e12-451d-81c5-d6b6589f35aa" alt="html5" title="html5" /></code>
+<code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/6a159d9b-20e6-41b5-bcd0-7a9d54bd9ce9" alt="vite" title="vite" /></code>
 
 </div>
 
