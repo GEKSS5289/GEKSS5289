@@ -13,13 +13,16 @@
     ░██    ░████████ ░░██████ ░██     ░██       ████████ ░██     ░██░░███████  ████████ ░██     ░██░░███████ ░██    ░░███
     ░░     ░░░░░░░░   ░░░░░░  ░░      ░░       ░░░░░░░░  ░░      ░░  ░░░░░░░  ░░░░░░░░  ░░      ░░  ░░░░░░░  ░░      ░░░ 
 </pre>
-
 <img height="153" src="https://github-readme-activity-graph.vercel.app/graph?username=GEKSS5289&theme=github-compact" align="left" />
-
 <img height="153" src="https://github-readme-streak-stats.herokuapp.com/?user=GEKSS5289"/>
-
-
 </div>
+
+```Java
+public static void main(String[] args){
+  System.out.print("Hey! I'm ShuShun")
+}
+```
+
 <img src="https://i.imgur.com/waxVImv.png" />
 <div align="center">
    <h1>🛠USE-TECH-STACK⚙</h1>
