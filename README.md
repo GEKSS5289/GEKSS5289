@@ -28,7 +28,6 @@ public class Main {
 }
 ```
 
-<img src="https://i.imgur.com/waxVImv.png" />
 <div align="center">
    <h1>🛠USE-TECH-STACK⚙</h1>
     <code><img
@@ -194,3 +193,4 @@ public class Main {
       title="vscode"
     /></code>
 </div>
+<img src="https://i.imgur.com/waxVImv.png" />
