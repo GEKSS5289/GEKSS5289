@@ -3,7 +3,8 @@
 <img src="https://i.imgur.com/waxVImv.png"/>
 
 > 👏Hey,I'm ShuShun
-<img  height="130" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/> 
+<img  height="130" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/>
+<img height="130"  src="https://avatars.githubusercontent.com/u/154297633?s=400&u=a01b24dc530891c00dede998ebb2edd2265ba394&v=4"  alt="cyberglint" title="cyberglint" align="left"/>
 <img  height="130" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"  align="left"/>
 <img  height="130" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
 
@@ -53,8 +54,8 @@ Composite Reuse Principle
 <img  height="30" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/7e94d048-dee3-4df8-9da2-bc3861b05333" alt="js" title="js" />
 <img  height="30" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/271e63f6-ac9f-49cb-a4c6-e2bc663f3337" alt="js" title="js" />
 
-
 </div>
+
 
 <img src="https://i.imgur.com/waxVImv.png"/>
 
