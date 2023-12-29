@@ -31,7 +31,9 @@
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/c124d02c-e723-4096-a2fd-c859b24436ff" alt="Mysql" title="Mysql">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/22ab4123-6164-4b65-9a9c-ad96e3c83c58" alt="es" title="es">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/c76b0be7-4127-4d84-bd26-6dcdd43318f5" alt="SpringBoot" title="SpringBoot">
-
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/b9d4e123-5eb0-42de-803b-ccb89b355678" alt="Docker" title="Docker">
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/60731e5e-dfc6-47ca-87d9-cdca1bd22756" alt="K8s" title="k8s">
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/341df2a4-6184-4aa6-9b6c-aef626dcf7aa" alt="jenkins" title="jenkins">
 
 
 </div>
