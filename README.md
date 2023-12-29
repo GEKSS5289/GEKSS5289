@@ -6,22 +6,18 @@
 # 👏Hey,I'm ShuShun
 
 <img  height="130" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/> 
-<img  height="130" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/4c4a3d0f-7424-4157-b36a-f115f8cc6fa7" alt="idea" title="idea" align="left"/> 
 <img  height="130" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"  align="left"/>
 <img  height="130" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
 
 
-<div>
 
-  ```
+
+```
 Read more books, study more.
 Don't repeat yourself.
 Keep moving, keep reconstructing.
 Learn to live.
 ```
-
-
-</div>
 
 
 
@@ -45,9 +41,8 @@ Learn to live.
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/3783ec59-2abf-4a74-bee1-e00e3df6a216" alt="Git" title="Git">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/2d7cf445-9c62-4d11-af35-6ad246c2f66f" alt="VUE" title="VUE">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/b53368c2-936b-4b98-9683-9c95dc2f77cc" alt="REACT" title="REACT">
-<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/146d92a5-ea83-4f99-9a1c-d7d74dba03b4" alt="REACT" title="REACT">
-
-
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/146d92a5-ea83-4f99-9a1c-d7d74dba03b4" alt="tomcat" title="tomcat">
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/8342fc2e-18d6-44b2-afa0-fbc6c2ef72ca" alt="LIUNX" title="Liunx" />
 
 
 </div>
