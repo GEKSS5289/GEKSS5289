@@ -5,9 +5,9 @@
 
 # 👏Hey,I'm ShuShun
 
-<img  height="150" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/> 
-<img  src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" height="150" align="left"/>
-<img  src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j" height="150 align="left"" />
+<img  height="130" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/> 
+<img  height="130" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" height="150" align="left"/>
+<img  height="130" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j" height="150 align="left"" />
 
 ```
 Read more books, study more.
@@ -16,15 +16,11 @@ Keep moving, keep reconstructing.
 Learn to live.
 ```
 
-
-<div align="center">
-   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"  align="center"/>
-</div>
+<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
 
 
 
 
-# Tool Chest
 
 <div style="display:flex">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/5bd4af9c-75e5-4dca-855d-047a940a147b" alt="JAVA" title="JAVA">
@@ -36,7 +32,6 @@ Learn to live.
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/60731e5e-dfc6-47ca-87d9-cdca1bd22756" alt="K8s" title="k8s">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/341df2a4-6184-4aa6-9b6c-aef626dcf7aa" alt="jenkins" title="jenkins">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/23746ba5-68fc-4836-a98d-7991b22e20cd" alt="devops" title="devops">
-
 
 
 </div>
