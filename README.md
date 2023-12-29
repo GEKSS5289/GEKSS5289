@@ -1,11 +1,6 @@
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GEKSS5289&theme=github-compact" />
 
 <img src="https://i.imgur.com/waxVImv.png"/>
-
-
-
-
 # 👏Hey,I'm ShuShun
 <img  height="130" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/> 
 <img  height="130" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"  align="left"/>
@@ -20,12 +15,9 @@ Learn to live.
 ```
 
 
-<img src="https://i.imgur.com/waxVImv.png"/>
-
-
 <div style="display:flex">
   
-# 🛠I use the tehc stack
+## Use the tehc stack
 
 <div style="display:flex;align-items:center;">
 <img height="80"  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" align="left"/>
@@ -52,6 +44,16 @@ Learn to live.
 
 
 </div>
+
+
+<img src="https://i.imgur.com/waxVImv.png"/>
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GEKSS5289&theme=github-compact" />
+
+
+
+
 
 
 
