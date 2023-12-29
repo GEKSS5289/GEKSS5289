@@ -8,7 +8,7 @@
 <img  height="120" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"  align="left"/>
 <img  height="120" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
 
-`不要重复你自己，保持运动，保持重构。`
+> 不要重复你自己，保持运动，保持重构。
 
   
 </div>
