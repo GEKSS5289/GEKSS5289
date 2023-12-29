@@ -1,16 +1,12 @@
 <img src="https://i.imgur.com/waxVImv.png"/>
 
 <div>
-<a href="https://www.jetbrains.com/zh-cn/idea">
 <img  height="120" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea"/>
-</a>
 <img  height="120" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/1ee08522-7e31-40f2-ae3e-4004ea8eb7ac" alt="windows" title="idea"/>
 <img  height="120" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"/>
 <img  height="120" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
 
 > 不要重复你自己，保持运动，保持重构。
-
-  
 </div>
 
 
