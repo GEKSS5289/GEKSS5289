@@ -33,6 +33,12 @@ Learn to live.
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/60731e5e-dfc6-47ca-87d9-cdca1bd22756" alt="K8s" title="k8s">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/341df2a4-6184-4aa6-9b6c-aef626dcf7aa" alt="jenkins" title="jenkins">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/23746ba5-68fc-4836-a98d-7991b22e20cd" alt="devops" title="devops">
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/3783ec59-2abf-4a74-bee1-e00e3df6a216" alt="Git" title="Git">
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/2d7cf445-9c62-4d11-af35-6ad246c2f66f" alt="VUE" title="VUE">
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/b53368c2-936b-4b98-9683-9c95dc2f77cc" alt="REACT" title="REACT">
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/146d92a5-ea83-4f99-9a1c-d7d74dba03b4" alt="REACT" title="REACT">
+
+
 
 
 </div>
