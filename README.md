@@ -1,7 +1,8 @@
 
 
 <img src="https://i.imgur.com/waxVImv.png"/>
-<a href="https://www.jetbrains.com/zh-cn/idea/">
+
+<a href="https://www.jetbrains.com/zh-cn/idea">
 <img  height="120" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/>
 </a>
 
