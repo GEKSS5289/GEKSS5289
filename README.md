@@ -51,7 +51,7 @@
 <br>
   
 <a href="https://github.com/CyberGlint">
-  <img  height="110"  src="https://avatars.githubusercontent.com/u/154297633?s=400&u=a01b24dc530891c00dede998ebb2edd2265ba394&v=4"  alt="cyberglint" title="cyberglint" align="left" />
+  <img  height="105"  src="https://avatars.githubusercontent.com/u/154297633?s=400&u=a01b24dc530891c00dede998ebb2edd2265ba394&v=4"  alt="cyberglint" title="cyberglint" align="left" />
 </a>
 
 ```
