@@ -1,17 +1,16 @@
 <img src="https://i.imgur.com/waxVImv.png"/>
 
 <div>
-<img  height="200" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"/>
-<img  height="200" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
-</div>
-<img src="https://i.imgur.com/waxVImv.png"/>
-<img  height="100" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea"/>
-<img  height="100" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/64bf5f61-0fee-4201-b19d-cb9d541b6aeb" alt="windows" title="idea"/>
+<img  height="150" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"/>
+<img  height="150" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
+<br>
 
 <div style="display:flex">
   
 <div style="display:flex;align-items:center;">
 <img height="70"  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" align="left"/>
+<img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea"/>
+<img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/64bf5f61-0fee-4201-b19d-cb9d541b6aeb" alt="windows" title="idea"/>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/5bd4af9c-75e5-4dca-855d-047a940a147b" alt="JAVA" title="JAVA"></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/8d394873-8666-4bac-aeca-0ba73d88eef4" alt="Redis" title="Redis"></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/c124d02c-e723-4096-a2fd-c859b24436ff" alt="Mysql" title="Mysql"></code>
@@ -38,6 +37,10 @@
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/45917c23-2684-491d-9e50-1f075afd6850" alt="centos" title="centos" /></code>
 </div>
 
+
+
+</div>
+<img src="https://i.imgur.com/waxVImv.png"/>
 
 
 
