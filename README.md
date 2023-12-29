@@ -18,7 +18,14 @@
 </div>
 
 ```Java
-public static void main(String[] args){System.out.print("Hey! I'm ShuShun");}
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("个体和互动胜过过程和工具");
+        System.out.println("可工作的软件胜过面面具备的文档");
+        System.out.println("客户合作胜过合同谈判");
+        System.out.println("响应变化胜过遵循计划");
+    }
+}
 ```
 
 <img src="https://i.imgur.com/waxVImv.png" />
