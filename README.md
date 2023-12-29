@@ -1,17 +1,8 @@
 <img src="https://i.imgur.com/waxVImv.png"/>
-
-<div align="center">
-<img  height="150" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
-<div align="center">
-<img  height="150" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"/>
-<img  height="150" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
-</div>
-<br>
-
+<img  height="120" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" align="left" />
+<img  height="120" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
 <br>
   
-<div style="display:flex;align-items:center;">
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea"/></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/64bf5f61-0fee-4201-b19d-cb9d541b6aeb" alt="windows" title="idea"/></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/5bd4af9c-75e5-4dca-855d-047a940a147b" alt="JAVA" title="JAVA"></code>
@@ -38,11 +29,8 @@
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/18ae3fd3-0e12-451d-81c5-d6b6589f35aa" alt="html5" title="html5" /></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/6a159d9b-20e6-41b5-bcd0-7a9d54bd9ce9" alt="vite" title="vite" /></code>
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/45917c23-2684-491d-9e50-1f075afd6850" alt="centos" title="centos" /></code>
-</div>
 
 
-
-</div>
 <img src="https://i.imgur.com/waxVImv.png"/>
 
 
