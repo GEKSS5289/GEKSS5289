@@ -9,23 +9,11 @@
 
 # 👏Hey,I'm ShuShun
 
-<img  height="120" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/> 
-<img  height="100" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/9cdaa98f-e6eb-4f8e-b79b-8933e9bee75c" alt="idea" title="idea" align="right"/> 
-
-- Don't repeat yourself, please keep clean
-- Keep methods short
-- Periodic reconstruction
-- Read more books, study more
-
-
-
-  
-<div style="display:flex;justify-content: space-between">
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-<img  src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" height="150"/>
-<img  src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j" height="150" />
-</div>
-
+<img  height="120" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"/> 
+<img  src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" height="150" align="left"/>
+<img  src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j" height="150 align="left"" />
+  
 
 
 
