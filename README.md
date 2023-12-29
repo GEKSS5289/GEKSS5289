@@ -18,6 +18,7 @@
 
 <img height="153" src="https://github-readme-activity-graph.vercel.app/graph?username=GEKSS5289&theme=github-compact" align="left" />
 <img height="153" src="https://github-readme-streak-stats.herokuapp.com/?user=GEKSS5289"/>
+<img height="153" src="https://github.com/GEKSS5289/GEKSS5289/blob/main/github-user-contribution.svg"/>
 
 </div>
 
