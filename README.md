@@ -45,7 +45,6 @@
 <code><img  height="40" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/45917c23-2684-491d-9e50-1f075afd6850" alt="centos" title="centos" /></code>
 </div>
 
-<br>
 
 <div>
   
@@ -62,7 +61,7 @@
 
 </div>
 
-
+<img src="https://i.imgur.com/waxVImv.png"/>
 
 
 
