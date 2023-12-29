@@ -1,11 +1,12 @@
 <img src="https://i.imgur.com/waxVImv.png"/>
 
 <div>
-<img  height="150" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"/>
-<img  height="150" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
+<img  height="200" src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat"/>
+<img  height="200" src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j"  />
 </div>
 <img src="https://i.imgur.com/waxVImv.png"/>
-
+<img  height="100" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea"/>
+<img  height="100" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/64bf5f61-0fee-4201-b19d-cb9d541b6aeb" alt="windows" title="idea"/>
 
 <div style="display:flex">
   
