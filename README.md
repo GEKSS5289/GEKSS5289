@@ -22,7 +22,7 @@
 
 </div>
 <img src="https://i.imgur.com/waxVImv.png" />
-<div aligin="center">
+<div align="center">
 <code
     ><img
       height="80"
