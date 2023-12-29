@@ -8,7 +8,8 @@
 
 
 # Hey I'm Shushun
-<img  height="120" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea"> <code><h3>Don't repeat yourself, please keep clean</h3></code>
+
+<img  height="120" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/432ee06b-ea5c-4e3f-92ae-7121233fff73" alt="idea" title="idea" align="left"> <code><h3>Don't repeat yourself, please keep clean</h3></code>
 
 <div style="display:flex;justify-content: space-between">
 <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
@@ -22,8 +23,9 @@
 
 
 # Tool Chest
+
 <div style="display:flex">
-<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/27b2b77a-a7c1-4e72-a14d-3966c51c651e" alt="JAVA" title="JAVA">
+<img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/5bd4af9c-75e5-4dca-855d-047a940a147b" alt="JAVA" title="JAVA">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/8d394873-8666-4bac-aeca-0ba73d88eef4" alt="Redis" title="Redis">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/c124d02c-e723-4096-a2fd-c859b24436ff" alt="Mysql" title="Mysql">
 <img  height="50" src="https://github.com/GEKSS5289/GEKSS5289/assets/38618059/22ab4123-6164-4b65-9a9c-ad96e3c83c58" alt="es" title="es">
