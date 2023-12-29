@@ -16,7 +16,7 @@
 <div style="display:flex;justify-content: space-between">
       <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 <img  src="https://github-readme-stats.vercel.app/api?username=GEKSS5289&show_icons=true&theme=flat" height="150"/>
-<img  src="https://streak-stats.demolab.com?user=GEKSS5289&theme=transparent&locale=zh_Hans&date_format=%5BY.%5Dn.j" height="150" />
+<img  src="https://streak-stats.demolab.com?user=GEKSS5289&theme=default&locale=zh_Hans&date_format=%5BY.%5Dn.j" height="150" />
 
 </div>
 
