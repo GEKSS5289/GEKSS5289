@@ -10,7 +10,7 @@
 ```java
 
 public static void main(String[] args){
-  System.out.print("org:CyberGlint")
+  System.out.print("活着是为了自由。")
 }
 
 ```
