@@ -4,5 +4,5 @@
 </figure>
 
   
-**It won't be too bad. Please don't be sad**
+**Enjoy the code, enjoy fast, enjoy the junk food.**
 
