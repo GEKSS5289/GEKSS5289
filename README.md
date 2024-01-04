@@ -10,7 +10,7 @@
 ```java
 
 public static void main(String[] args){
-  System.out.print("活着是为了自由。")
+  System.out.print("不应该只有一种声音，也不可能有一套标准答案。")
 }
 
 ```
